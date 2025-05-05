@@ -1,0 +1,10 @@
+jigjiga-map/
+├── index.html
+├── style.css
+├── script.js
+├── data/
+│   └── services.json
+├── images/
+│   ├── hospital-icon.png
+│   ├── hostel-icon.png
+│   └── taxi-icon.png
